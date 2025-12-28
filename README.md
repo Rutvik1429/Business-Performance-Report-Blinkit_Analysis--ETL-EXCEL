@@ -1,4 +1,4 @@
-# Business-Performance-Report-Blinkit_Analysis--ETL-EXCEL
+# Business-Performance-Report-Blinkit_Analysis-ETL-EXCEL
 This Blinkit, The primary objective of this report is to help Blinkit understand business trends, improve customer experience, and enhance operational workflows by leveraging data-driven insights.
 
 ## 📌 Project Overview
@@ -7,7 +7,6 @@ This is a detailed **Blinkit Analysis Dashboard** created using **Microsoft Exce
 ![dashboar images](https://github.com/Rutvik1429/Business-Performance-Report-Blinkit_Analysis--ETL-EXCEL/blob/main/Blinkit%20Analysis%20Dashboard.png)
 
 ## ✅ Objective
-The main objectives of this project are:
 
 - Analyze Blinkit’s sales performance across different outlet sizes, locations, and types.
 - Visualize trends over time to understand historical performance and fluctuations.
@@ -87,8 +86,5 @@ This Excel dashboard serves as a powerful tool for business performance analysis
 ## 📂 Project Files
 
 - `Blinkit_Analysis_Dashboard.xlsx` – Excel file containing the dashboard with all visuals, formulas, and filters.
-- `README.md` – Documentation file explaining the project.
 
-
-For further questions or collaboration, feel free to reach out!
 
